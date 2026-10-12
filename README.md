@@ -8,16 +8,21 @@ The task is to explore the use of ethics while exploring the dataset, any consid
 ## Project Overview.
 * Considerations of ethics when exploring the dataset
 
-Age, Gender and Ethnicity.
+How AI is used when used as a researching tool, what problems could it find in this project and how that data will be presented in a dashboard when being mindful of an individuals protection.
 
-* Being mindful of GDPR guidlines.
+* GDPR guidlines.
 
 Personal information, health requirements and finance.
+
+* The Equality Act (2010)
+
+Age Discrimination, Individual Liberty, Race & Ethnicity.
 
 ## Technologies Used.
 * VSCode
 * Python
 * Tableau
+* Github
 
 ## What I learned
 * How to approach and address ethical issues appropriately.
